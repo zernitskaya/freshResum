@@ -1,0 +1,19 @@
+.wrap {
+  display: flex;
+  flex-wrap: nowrap;
+  justify-content: space-evenly;
+}
+
+.cont-wrap{
+  max-width: 30%;
+}
+
+.about {
+  /* max-width: 25%; */
+  padding: 10px 50px 10px 10px;
+
+}
+
+.all-wrap {
+  padding-top: 70px;
+}
